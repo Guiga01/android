@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="your_name_is"> O seu nome é : %1$S</string>
+</resources>
