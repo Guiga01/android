@@ -1,5 +1,10 @@
 package com.example.tcc
 
+import androidx.room.ColumnInfo
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+import java.sql.Date
+
 @Entity
 data class Product(
     @PrimaryKey val uid: Int,
